@@ -1,0 +1,12 @@
+$primary: #fc0000 !default;
+$secondary: #000 !default;
+
+$white: #FFF;
+$black: #000;
+
+$color-contrast-dark: $white;
+$color-contrast-light: $black;
+
+// This can be adjusted per theme if you need to have the contrast swap at a different ratio. 
+//Helpful for colors that are close together in isotropic color value. The value of 4.5 is the minimum for WCAG compliance
+$min-contrast-ratio: 4 !default;

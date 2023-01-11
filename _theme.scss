@@ -1,0 +1,9 @@
+.bg-primary {
+    color: color-contrast($primary);
+    background-color:$primary;
+}
+
+.bg-secondary {
+    color: color-contrast($secondary);
+    background-color: $secondary;
+}
